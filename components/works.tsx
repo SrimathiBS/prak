@@ -115,7 +115,7 @@ export function Works() {
 
         {/* Floating Image */}
         <motion.div
-          className="absolute pointer-events-none z-50 w-100 h-100 md:w-90 md:h-78 overflow-hidden rounded-lg"
+          className="absolute pointer-events-none z-50 w-80 h-80 md:w-[360px] md:h-[300px] overflow-hidden rounded-lg"
           style={{
             x: springX,
             y: springY,
